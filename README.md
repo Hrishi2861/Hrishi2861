@@ -35,8 +35,8 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://telegram.me/hrishikesh2861)
 
 ## 🌱 Currently Learning
-- Advanced algorithms and data structures
-- React, NodeJS, MERN Stack and AI
+- Advanced Algorithms and Data Structures
+- ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react), ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js), ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb), ![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express), ![AI](https://img.shields.io/badge/-AI-black?style=flat-square&logo=openai).
 - Cloud Computing with AWS
 
 ## ⚡ Fun fact
