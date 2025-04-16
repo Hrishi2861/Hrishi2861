@@ -18,21 +18,20 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hrishi2861&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrishi2861&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ## 🚀 Projects
 - **[Alarm-Clock](https://github.com/Hrishi2861/Alarm-Clock)**: Simple Alarm-Clock Android App in Kotlin.
 - **[To-Do-List](https://github.com/Hrishi2861/To-Do-List)**: Simple To-Do-List Android App in Kotlin.
-- **[Aeon-MLTB-Modified](https://github.com/Hrishi2861/Aeon)**: Mirror Leech Telegram Bot in Python.
+- **[Terabox-Downloader-Bot](https://github.com/Hrishi2861/Terabox-Downloader-Bot)**: Mirror Leech Telegram Bot in Python.
 
 ## 📫 How to reach me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hrishikesh-thombare-854348216/)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter)](https://x.com/HrishikeshThom5)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail)](mailto:hrishithombare15@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/___.hrishikesh.___)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://telegram.me/hrishikesh2861)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://telegram.me/rtx5069)
 
 ## 🌱 Currently Learning
 - ![DSA](https://img.shields.io/badge/-DSA-black?style=flat-square&logo=databricks), ![Advanced Algorithms](https://img.shields.io/badge/-Advanced%20Algorithms-black?style=flat-square&logo=algolia)
