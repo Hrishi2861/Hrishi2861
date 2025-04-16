@@ -24,7 +24,7 @@
 ## 🚀 Projects
 - **[Alarm-Clock](https://github.com/Hrishi2861/Alarm-Clock)**: Simple Alarm-Clock Android App in Kotlin.
 - **[To-Do-List](https://github.com/Hrishi2861/To-Do-List)**: Simple To-Do-List Android App in Kotlin.
-- **[Terabox-Downloader-Bot](https://github.com/Hrishi2861/Terabox-Downloader-Bot)**: Mirror Leech Telegram Bot in Python.
+- **[Terabox-Downloader-Bot](https://github.com/Hrishi2861/Terabox-Downloader-Bot)**: Terabox High Speed Downloader Bot written in Python.
 
 ## 📫 How to reach me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hrishikesh-thombare-854348216/)
