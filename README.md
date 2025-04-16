@@ -2,7 +2,7 @@
 
 # Hi there 👋, I'm Hrishikesh!
 
-🎓 3rd Year Computer Engineering Student at Pune, India  
+🎓 4rd Year Computer Engineering Student at Pune, India  
 🌟 Passionate about Software Development, Open Source, and AI  
 
 ## 🔧 Technologies & Tools
