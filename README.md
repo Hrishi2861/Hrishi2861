@@ -6,8 +6,8 @@
 🌟 Passionate about Software Development, Open Source, and AI  
 
 ## 🔧 Technologies & Tools
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
